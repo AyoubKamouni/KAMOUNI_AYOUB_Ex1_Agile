@@ -1,6 +1,5 @@
 #  Exercice 1 – Maîtriser les notions fondamentales de la gestion de projet
 **Module :** M202 – Approche Agile  
-**Partie 1 :** Fondamentaux de la gestion de projet  
 
 ##  Stagiaire
 - **Nom :** KAMOUNI
@@ -40,7 +39,7 @@
 
 ---
 
-### 🔹 Partie C – Question de réflexion
+###  Partie C – Question de réflexion
 
 **Différence entre une activité quotidienne et un projet :**  
 - **Une activité quotidienne (opérationnelle) :** Est répétitive, continue et permanente sans date de fin définie. Elle vise à maintenir le fonctionnement normal de l'entreprise.  
