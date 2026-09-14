@@ -1,9 +1,11 @@
-#  Exercice 1 – Approche Agile (Module M202)
+#  Exercice 1 – Maîtriser les notions fondamentales de la gestion de projet
+**Module :** M202 – Approche Agile  
+**Partie 1 :** Fondamentaux de la gestion de projet  
 
 ##  Stagiaire
 - **Nom :** KAMOUNI
 - **Prénom :** Ayoub
-- **Filière :** Développement Digital - Option Web Full Stack
+- **Filière :** Développement Digital (Option Web FullStack)
 - **Groupe :** DEVOWFS203
 - **Établissement :** ISTA Bab Tizimi - Meknès
 - **Formateur :** M. Said GAHI
@@ -12,27 +14,43 @@
 
 ##  Correction de l'Exercice 1
 
-###  Question 1 : Qu'est-ce que l'approche Agile et quel est son objectif ?
-**Réponse :**  
-L'approche Agile est une méthodologie de gestion de projet flexible, itérative et collaborative. Elle vise à livrer un produit fonctionnel par étapes (itérations ou sprints) en intégrant régulièrement les retours du client pour s'adapter rapidement aux changements.
+###  Partie A – Définitions
+
+1. **Projet :**  
+   C'est un ensemble d'activités coordonnées et contrôlées, entreprises pour atteindre un objectif spécifique dans le respect de contraintes de temps, de budget et de ressources. Un projet est unique et temporaire (il a un début et une fin définis).
+
+2. **Partie prenante :**  
+   Tout individu, groupe ou organisation qui peut affecter, être affecté ou se sentir lui-même affecté par une décision, une activité ou le résultat d'un projet (ex: client, équipe de développement, utilisateur final, financeur).
+
+3. **Contrainte d'un projet :**  
+   Toute limitation ou exigence imposée au projet qui restreint la liberté d'action de l'équipe. Les contraintes classiques incluent le temps (délais), le coût (budget), la qualité et le périmètre.
 
 ---
 
-###  Question 2 : Quelle est la différence entre l'approche Agile et le modèle en Cascade (Waterfall) ?
-**Réponse :**  
-- **Modèle en Cascade :** Suivi séquentiel et rigide des étapes (Analyse ➔ Conception ➔ Codage ➔ Test). Les modifications en cours de projet sont difficiles et coûteuses.
-- **Approche Agile :** Découpage du projet en itérations courtes. Le produit est amélioré en continu avec une grande flexibilité face aux changements.
+###  Partie B – Description et identification des notions
+
+| N° | Description | Notion correspondante |
+| :---: | :--- | :---: |
+| **1** | Le projet possède une date de début et une date de fin. | **Temporalité** |
+| **2** | Chaque projet répond à un besoin particulier et produit un résultat spécifique. | **Résultat / Livrable** |
+| **3** | Un projet peut être influencé par des événements ou des risques difficiles à prévoir. | **Incertitude** |
+| **4** | La réalisation d'un projet nécessite la coordination de plusieurs personnes, activités et ressources. | **Complexité** |
+| **5** | Le projet vise l'atteinte d'un résultat ou d'un objectif précis. | **Objectif** |
+| **6** | Deux projets peuvent être similaires, mais chacun possède un contexte et des caractéristiques propres. | **Unicité** |
 
 ---
 
-###  Question 3 : Citez les 4 valeurs fondamentales du Manifeste Agile.
-**Réponse :**  
-1. **Les individus et leurs interactions** plus que les processus et les outils.
-2. **Des logiciels opérationnels** plus qu'une documentation exhaustive.
-3. **La collaboration avec les clients** plus que la négociation contractuelle.
-4. **L'adaptation au changement** plus que le suivi d'un plan.
+### 🔹 Partie C – Question de réflexion
+
+**Différence entre une activité quotidienne et un projet :**  
+- **Une activité quotidienne (opérationnelle) :** Est répétitive, continue et permanente sans date de fin définie. Elle vise à maintenir le fonctionnement normal de l'entreprise.  
+- **Un projet :** Est temporaire, unique, possède un début et une fin clairs, et vise à créer un changement ou un nouveau produit.
+
+** Exemple dans le domaine du développement digital :**
+- **Activité quotidienne :** Assurer la maintenance régulière d'un site web existant ou corriger les bugs signalés quotidiennement par les utilisateurs.
+- **Projet :** Concevoir et développer une nouvelle plateforme e-commerce à partir de zéro pour un client dans un délai de 3 mois.
 
 ---
 
 ##  Conclusion
-L'adoption de l'approche Agile permet de maximiser la valeur délivrée au client tout en réduisant les risques liés aux changements de besoins. Ce premier exercice sur GitHub constitue une première étape pratique pour documenter nos travaux selon les principes de transparence et de suivi propres à la méthodologie Agile.
+Cet exercice m'a permis de consolider mes connaissances théoriques sur les bases de la gestion de projet, notamment en identifiant les caractéristiques clés d'un projet et en faisant la distinction entre les opérations courantes et les activités projet.
