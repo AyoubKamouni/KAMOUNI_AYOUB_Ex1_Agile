@@ -51,5 +51,5 @@ Différence entre une activité quotidienne et un projet :
 
 ---
 
-##  Conclusion
+  Conclusion
 Cet exercice m'a permis de consolider mes connaissances théoriques sur les bases de la gestion de projet, notamment en identifiant les caractéristiques clés d'un projet et en faisant la distinction entre les opérations courantes et les activités projet.
